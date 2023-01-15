@@ -117,10 +117,6 @@ class Local():
             __lang_ru: 'Загрузка завершена',
             __lang_en: 'Loading is complete',
         },
-        'Press enter to continue...': {
-            __lang_ru: 'Нажмите enter для продолжения...',
-            __lang_en: 'Press enter to continue...',
-        },
         'completed': {
             __lang_ru: 'выполнено',
             __lang_en: 'completed',
